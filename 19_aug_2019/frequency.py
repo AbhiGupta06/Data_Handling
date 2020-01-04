@@ -25,15 +25,15 @@ Code Challenge
 
 user = "www.google.com"
 
-dict1 ={}
+list1 = []
+dict1 =[]
 
 for i in user:
-    if i not in dict1:
-        dict1[i] = 1
+    list1.appned(i)
     
-    else:
-        dict1[i]+=1
+for i in list1:
+    if i in dict1:
         
-print (dict1)
+print (list1)
 
     

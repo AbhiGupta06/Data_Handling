@@ -1,0 +1,1 @@
+"\n{\n\t\"Name\": {\n\t\t\"Firs_Name\": \"Ashish\",\n\t\t\"Last_Name\": \"Sharma\"\n\t},\n\t\"Age\": 35,\n\t\"Phone_Number\": [\"8619844650\", \"8690944650\"],\n\t\"Subject\": \"Web Development\",\n\t\"Smoking\": false,\n\t\"Gendar\": \"Male\",\n\t\"Address\": {\n\t\t\"TempAdress\": \"Bhankrota Jaipur\"\n\t}\n\n}\n"
